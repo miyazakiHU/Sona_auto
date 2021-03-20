@@ -1,0 +1,3 @@
+m000000@hiroshima-u.ac.jp
+b111111@hiroshima-u.ac.jp
+foo@gmail.com
