@@ -1,5 +1,5 @@
-# Sona_auto
 ソナシステムのアカウント承認・削除を自動で行うプログラムです。
+
 【動作確認環境】
 ・Python：3.8.3
 ・Selenium：3.141.0
@@ -33,6 +33,3 @@ B.アカウントを承認したい
 2.sona_auto_approve.pyの6行目と7行目にソナの管理者アカウントのIDとパスワードを入力してください。
 3.sona_auto_approve.pyを実行してください。
 ※51以上のアカウントを承認したい場合は何度もsona_auto_approve.pyを実行してください。
-
-連絡先：2masato.miyazaki@gmail.com
-宮崎 聖人（Masato Miyazaki）
