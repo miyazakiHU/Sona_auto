@@ -2,6 +2,7 @@
 
 ## 【動作確認環境】
 ・Python：3.8.3
+
 ・Selenium：3.141.0
 ・Google Chrome：89.0.4389.90（Official Build） （64 ビット）
 
